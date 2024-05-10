@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "646901701952",
+    "project_id": "tyamo-app-263ac",
+    "storage_bucket": "tyamo-app-263ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646901701952:android:6fe2c010d577479190aea5",
+        "android_client_info": {
+          "package_name": "com.example.tyamo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApkJroCLx50sWILZU_brHzxpf7sd4SSJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
